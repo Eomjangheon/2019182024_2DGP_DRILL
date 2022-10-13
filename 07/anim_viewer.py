@@ -82,4 +82,7 @@ while True:
     monsterX, monsterY=700,400
     
         
-close_canvas()
+    
+
+
+close_canvas
